@@ -1,3 +1,2 @@
-console.log('Hello from test.js');
-console.log('Bye');
-export default 'Hi';
+console.log('Imported module');
+export default 123456789;
